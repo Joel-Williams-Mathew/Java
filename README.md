@@ -18,4 +18,8 @@
 <h3 align="left">List of Java Programs</h3>
 
 1) Hello
+2) Count the frequency of letters
+3) Palindrome
+4) Fibonacci
+5) Implement Calculator
 
