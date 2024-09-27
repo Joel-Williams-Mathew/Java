@@ -1,3 +1,8 @@
+/* @Author : Joel Williams
+   @Date : 
+   @Aim : Write a program to find whether a number is in fibonacci series or not
+*/
+
 import java.util.Scanner;
 import java.io.*;
 
@@ -22,6 +27,7 @@ class fibonacci {
         	Scanner obj = new Scanner(System.in);
         	System.out.println("the fibonacci series is  ");
         	System.out.print(n1+" "+n2);
+		// Loop for checking fibonacci series or not
         	for(i=3;i<=n;i++){
             		System.out.print(" "+no);
             		n1=n2;
