@@ -5,6 +5,10 @@ class Animal {
 	}
 }
 class Dog extends Animal {
+	public void eat() {
+		super.eat();
+		System.out.println("Eat function in class Dog");
+	}
 	public void display() {
 		System.out.println("New name is "+name);
 	}
